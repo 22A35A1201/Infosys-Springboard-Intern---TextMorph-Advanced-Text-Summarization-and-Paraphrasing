@@ -1,7 +1,9 @@
 # Milestone 1 – User Authentication System
 
+
 ## Project Title
 TextMorph – Advanced Text Summarization and Paraphrasing
+
 
 ## Description
 In Milestone 1, we developed a secure and functional User Authentication System using Streamlit, JWT, MongoDB Atlas, and Ngrok.
@@ -46,16 +48,22 @@ User credentials are securely stored in MongoDB Atlas database.
 5. Run the application
 6. Run the application
 
+---
 
 ## Screenshorts
+
+
 ### Signup Page
 ![Signup Page](signup.png)
+
 
 ### Login Page
 ![Login Page](login.png)
 
+
 ### Dashboard
 ![Dashboard](dashboard.png)
+
 
 ### Forgot Password Page
 ![Forgot Password](forgot.png)
