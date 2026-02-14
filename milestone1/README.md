@@ -64,8 +64,10 @@ User credentials are securely stored in MongoDB Atlas database.
 ![Forgot Password](forgot.png)
 
 
+### Reset Password Page
+![Reset Password](reset-password.png)
+
+
 ### Dashboard
 ![Dashboard](dashboard.png)
 
-### Reset Password Page
-![Reset Password](reset password.png)
