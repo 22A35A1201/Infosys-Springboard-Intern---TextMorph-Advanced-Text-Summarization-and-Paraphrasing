@@ -46,7 +46,6 @@ User credentials are securely stored in MongoDB Atlas database.
 
    Get your authentication token and add it inside the code.
 5. Run the application
-6. Run the application
 
 ---
 
@@ -61,10 +60,10 @@ User credentials are securely stored in MongoDB Atlas database.
 ![Login Page](login.png)
 
 
-### Dashboard
-![Dashboard](dashboard.png)
-
-
 ### Forgot Password Page
 ![Forgot Password](forgot.png)
+
+
+### Dashboard
+![Dashboard](dashboard.png)
 
