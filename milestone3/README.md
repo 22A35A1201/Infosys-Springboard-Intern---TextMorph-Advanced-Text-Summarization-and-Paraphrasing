@@ -174,25 +174,25 @@ User Interface (Streamlit) ↓ Authentication Layer (JWT + OTP) ↓ AI Processin
 # Screenshots
 
 ### Login Page
-![Login_Page](Screenshots/login3.png)
+![Login_Page](Screenshorts/login3.png)
 
 ### Readability Dashboard
-![Readability_Dashboard](Screenshots/readability3.png)
+![Readability_Dashboard](Screenshorts/readability3.png)
 
 ### Summarizer Page
-![Summarizer](Screenshots/summarize3.png)
+![Summarizer](Screenshorts/summarize3.png)
 
 ### Paraphrase
-![Paraphrase](Screenshots/paraphrase3.png)
+![Paraphrase](Screenshorts/paraphrase3.png)
 
 ### Dataset Augmentation
-![Dataset_Augmentation](Screenshots/augment3.png)
+![Dataset_Augmentation](Screenshorts/augment3.png)
 
 ### History
-![History](Screenshots/history3.png)
+![History](Screenshorts/history3.png)
 
 ### Admin
-![Admin](Screenshots/admin3.png)
+![Admin](Screenshorts/admin3.png)
 
 ---
 
