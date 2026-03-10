@@ -173,4 +173,30 @@ User Interface (Streamlit) ↓ Authentication Layer (JWT + OTP) ↓ AI Processin
 
 # Screenshots
 
+### Login Page
+![Login Page](login3.png)
 
+### Readability Dashboard
+![Readability Dashboard](readability3.png)
+
+### Summarizer Page
+![Summarizer](summarize3.png)
+
+### Paraphrase
+![Paraphrase](paraphrase3.png)
+
+### Dataset Augmentation
+![Dataset Augmentation](augment3.png)
+
+### History
+![History](history3.png)
+
+### Admin
+![Admin](admin3.png)
+
+---
+
+# Conclusion
+This project demonstrates the integration of secure authentication systems with advanced natural language processing techniques. By combining summarization, paraphrasing, readability analysis, and dataset augmentation, the platform provides a complete AI-based text processing solution.
+
+The system highlights secure backend architecture, efficient AI models, and a modern user interface suitable for real-world applications.
