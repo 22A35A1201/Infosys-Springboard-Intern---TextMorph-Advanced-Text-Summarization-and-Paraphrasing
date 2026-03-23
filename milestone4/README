@@ -1,1 +1,79 @@
+# 🧠 TextMorph  
+### AI-Powered Content Simplification, Summarization & Paraphrasing
 
+---
+
+## 🧩 Milestone 4 – Final Integration
+
+TextMorph is a complete end-to-end AI-powered application that transforms complex text into clear, concise, and understandable content using advanced NLP models.
+
+---
+
+## 📌 Overview
+
+Milestone 4 focuses on integrating all previously developed modules into a fully functional application.
+
+This includes:
+
+- 🔐 User Authentication (Milestone 1)  
+- 📝 Text Processing (Milestone 2)  
+- 🤖 AI Model Integration (Milestone 3)  
+
+The final system is deployed using **Streamlit** and exposed via **Ngrok**.
+
+---
+
+## 🎯 Objectives
+
+- Integrate authentication, NLP processing, and AI models  
+- Build a complete end-to-end application  
+- Provide a user-friendly interface  
+- Enable real-time text transformation  
+
+---
+
+## 🚀 Features Implemented
+
+### 👤 User Features
+
+- Secure login/signup (JWT-based authentication)  
+- Input text for processing  
+- Text Summarization (Short / Medium / Long)  
+- Paraphrasing (Simple / Neutral / Advanced)  
+- Readability Analysis  
+- Side-by-side comparison (Input vs Output)  
+- Save history of operations  
+- Feedback system  
+
+---
+
+### 🛠 Admin Features
+
+- View all users  
+- Manage user roles  
+- Monitor application usage  
+- View feedback and ratings  
+- Access complete history logs  
+- Feedback analytics (WordCloud)  
+
+---
+
+## 🧩 System Architecture
+
+| Component        | Technology Used              |
+|----------------|-----------------------------|
+| Frontend        | Streamlit                   |
+| Backend         | Python                      |
+| NLP Processing  | NLTK                        |
+| AI Models       | Hugging Face Transformers   |
+| Database        | SQLite / MySQL              |
+| Security        | JWT Authentication          |
+
+---
+
+## ⚙️ Setup Instructions (Google Colab)
+
+### 1️⃣ Install Dependencies
+
+```bash
+pip install streamlit pyngrok transformers nltk bcrypt python-jose
