@@ -1,0 +1,14 @@
+streamlit
+pyngrok
+transformers
+torch
+sentencepiece
+nltk
+textstat
+pandas
+numpy
+python-jose
+bcrypt
+passlib
+email-validator
+scikit-learn
