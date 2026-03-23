@@ -74,6 +74,3 @@ The final system is deployed using **Streamlit** and exposed via **Ngrok**.
 ## ⚙️ Setup Instructions (Google Colab)
 
 ### 1️⃣ Install Dependencies
-
-```bash
-pip install streamlit pyngrok transformers nltk bcrypt python-jose
